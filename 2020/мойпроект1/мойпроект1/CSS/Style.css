@@ -1,0 +1,187 @@
+.obram {
+    height: 100%;
+    overflow: hidden;
+    min-height: 100%;
+    padding: 0px;
+    
+}
+
+.background {
+    width: 100% ;
+    height: 330px;
+    background-color: purple;
+    
+ }
+
+ .background2 {
+    width: 100%;
+    height: 330px;
+    background-color: rgb(17, 184, 142);
+    ;
+    
+ }
+ 
+ .textcenter {
+  text-align: center;
+  color: seashell;
+  display: flex;
+  font-size: larger;
+  height: 1em;
+  align-items: center;
+  justify-content: center;
+  width: 590px;
+  padding: 10px 400px;
+  
+ }
+
+.text_center_up {
+
+color: seashell;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 24px;
+display: flex;
+align-items: center;       
+justify-content: center;   
+height: 5em;
+}
+
+.text_center_down {
+color: seashell;
+display: flex;
+align-items: center;
+justify-content: center;
+width: 600px;
+padding: 10px 350px;
+text-align: center  ;
+}
+
+.flag {
+    width: 150px;
+    display: flex;
+    align-items: flex-end;
+    padding: 30px 100px;
+}
+
+.picture {
+    display: flex;
+    justify-content: center;
+}
+    
+.adil{
+    width: 150px;
+    display: flex;
+    align-items: flex-end;
+    padding: 30px 100px;
+}
+
+.oil{
+    width: 150px;
+    display: flex;
+    align-items: flex-end;
+    padding: 30px 100px;
+}
+
+.title {
+    width: 150px;
+    display: flex;
+    align-items: flex-end;
+    padding: 30px 100px
+}
+
+.button {
+    
+    display: flex;	
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 30px;
+    cursor: pointer;
+    border: none;
+    background: orangered;
+    color: seashell;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    
+    }
+
+.for_but {
+    height: 100px;
+    display: flex;	
+    justify-content: center;
+    align-items: center;
+}
+
+.all_but {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 10px;
+}
+
+.info {
+    margin-right: auto;
+}
+
+.doma {
+    padding: 20px 10px;
+}
+
+.home{
+    cursor: pointer; 
+    border: none;
+    background: purple;
+    color: seashell;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.ochem {
+    padding: 20px 10px
+}
+
+.about {
+    cursor: pointer; 
+    border: none;
+    background: purple;
+    color: seashell;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.rabota {
+    padding: 20px 10px
+}
+
+.work {
+    cursor: pointer; 
+    border: none;
+    background: purple;
+    color: seashell;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.bloger {
+    padding: 20px 10px;
+}
+
+.blog {
+    cursor: pointer; 
+    border: none;
+    background: purple;
+    color: seashell;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.svyazi {
+    padding: 20px 10px;
+}
+
+.contact {
+    cursor: pointer; 
+    border: none;
+    background: purple;
+    color: seashell;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+}
